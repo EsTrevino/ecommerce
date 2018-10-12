@@ -1,7 +1,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
-/Users/estevaano/IdeaProjects/ecommerce/src/main/resources/application.properties
+
 
 ### STS ###
 .apt_generated
@@ -29,3 +29,5 @@
 .DS_Store
 src/.DS_Store
 src/main/.DS_Store
+
+src/main/resources/application.properties
